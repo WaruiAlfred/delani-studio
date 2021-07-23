@@ -1,18 +1,18 @@
 $(document).ready(function(){
 
   $(".design").click(function(){
-    $("design-showing").toggle();
-    $("design-hidden").toggle();
+    $(".design-showing").toggle();
+    $(".design-hidden").toggle();
   });
 
-  $(".design").click(function(){
-    $("").toggle();
-    $("").toggle();
+  $(".development").click(function(){
+    $(".development-showing").toggle();
+    $(".development-hidden").toggle();
   });
 
-  $(".design").click(function(){
-    $("").toggle();
-    $("").toggle();
+  $(".product-management").click(function(){
+    $(".product-management-showing").toggle();
+    $(".product-management-hidden").toggle();
   });
 
 });
