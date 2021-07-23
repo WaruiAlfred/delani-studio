@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+/*introduction section*/
+div .introduction{
+ background-image: url('../assets/backgrounds/h_img.jpg');
+ background-position:  center;
+ background-size: cover;
+ background-repeat: no-repeat;
+ color: white;
+ text-align: center;
+ height: 800px;
+}
+#d-logo{
+  padding-top: 250px;
+}
+#welcome-text1{
+  margin-top: 15px;
+  font-size: 50px;
+}
+#welcome-text2{
+  font-size: 50px;
+  margin-bottom: 0px;
+}
+#welcome-text3{
+  margin-bottom: 180px;
+}
