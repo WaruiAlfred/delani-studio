@@ -42,8 +42,24 @@ div .introduction{
   color: white;
   text-align: center;
   height: 488px;
+  margin-bottom: 50px;
 }
 .head-services{
   padding-top: 160px;
 }
-
+/*what-we-do section*/
+.what-we-do{
+  text-align: center;
+}
+.design-hidden{
+  text-align: center;
+  display: none;
+}
+.development-hidden{
+  text-align: center;
+  display: none;
+}
+.product-management-hidden{
+  text-align: center;
+  display: none;
+}
