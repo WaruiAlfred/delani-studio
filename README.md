@@ -1,8 +1,8 @@
-# Akan Name Generator Application
-#### Author: **Alfred Warui**\
+# DELANI STUDIO
+#### Author: **Alfred Warui**
 ## 
 Delani studio is a fictional studio where a team of developers work together to build up sites and systems for users.
-## Installation:
+## Installation requirements:
 * Stable internet connection
 * Git clone this repository into your computer
 * Navigate to where you have stored it and double click to open the file
