@@ -23,5 +23,5 @@ There are known bugs.
 Email me:alfred.kahenya@student.moringaschool.com\
 My phone number:0740365281
 ### License
-* *License under [MIT License](LICENSE)*\
+* *License under [MIT License](LICENSE)*
 * Copyright (c) 2021 **Alfred Warui**
