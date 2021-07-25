@@ -65,6 +65,21 @@ $(document).ready(function(){
     $("#overtext8").hide();
   });
 
+  //contacts
+  $("#inputs").submit(function(event){
+    var userName = $("input#name-input").val();
+    var userEmail = $("input#email-input").val();
+    var userComments = $("textarea#comment").val();
+
+    if($("input#name-input") && $("input#email-input")){
+      alert(userName + ",we have received your message. Thank you for reaching out to us.");
+    }else {
+      return false
+    }
+
+    event.preventDefault();
+  });
+
 });
  
 
