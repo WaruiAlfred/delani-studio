@@ -91,9 +91,14 @@ div .introduction{
   border: 5px solid white;
   display: none;
   position: absolute;
-  top: 30px;
+  top: 15px;
+  text-align: center;
+  padding-top: 50px;
   font-size: 20px;
   font-weight: bolder;
+  width: 190px;
+  height: 145px;
+  margin-left: 0.7%;
 }
 /*contacts section*/
 .contacts{
